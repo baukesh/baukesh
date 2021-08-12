@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baukesh
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Machine Learning, Computer Vision, CNNs, GANs and Reinforcement Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Reinforcement Learning projects
 - 📫 How to reach me: bauyrzhan.ibragimov@nu.edu.kz
 
 <!---
